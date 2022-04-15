@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.9880388c.css",
-    "main.js": "/static/js/main.f18c646e.js",
-    "static/js/787.25406f3b.chunk.js": "/static/js/787.25406f3b.chunk.js",
-    "static/media/image.jpg": "/static/media/image.a7fb5225f1b522662b00.jpg",
-    "index.html": "/index.html",
-    "static/media/icon-close-16.svg": "/static/media/icon-close-16.d435956e074c3c7289fbaf39d4c18263.svg",
-    "main.9880388c.css.map": "/static/css/main.9880388c.css.map",
-    "main.f18c646e.js.map": "/static/js/main.f18c646e.js.map",
-    "787.25406f3b.chunk.js.map": "/static/js/787.25406f3b.chunk.js.map"
+    "main.css": "/gabozago/static/css/main.3b176872.css",
+    "main.js": "/gabozago/static/js/main.e0a175c1.js",
+    "static/js/787.25406f3b.chunk.js": "/gabozago/static/js/787.25406f3b.chunk.js",
+    "static/media/me.png": "/gabozago/static/media/me.11c63b9afa45c26d544e.png",
+    "static/media/image.gif": "/gabozago/static/media/image.3de4a63fc241e077362f.gif",
+    "index.html": "/gabozago/index.html",
+    "static/media/icon-close-16.svg": "/gabozago/static/media/icon-close-16.d435956e074c3c7289fbaf39d4c18263.svg",
+    "main.3b176872.css.map": "/gabozago/static/css/main.3b176872.css.map",
+    "main.e0a175c1.js.map": "/gabozago/static/js/main.e0a175c1.js.map",
+    "787.25406f3b.chunk.js.map": "/gabozago/static/js/787.25406f3b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9880388c.css",
-    "static/js/main.f18c646e.js"
+    "static/css/main.3b176872.css",
+    "static/js/main.e0a175c1.js"
   ]
 }
